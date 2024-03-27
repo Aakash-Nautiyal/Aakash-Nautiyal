@@ -1,3 +1,4 @@
+![logo](https://github.com/Aakash-Nautiyal/Aakash-Nautiyal/blob/main/banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Aakash Nautiyal</h1>
 <h3 align="center">🌟A Computer Science student.</h3>
 
